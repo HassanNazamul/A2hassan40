@@ -1,0 +1,16 @@
+::ng-deep .mat-mdc-header-cell {
+    font-weight: bold !important;
+    color: #6d28d9 !important;
+    text-align: center !important;
+    /* Ensure the style is applied */
+}
+
+
+::ng-deep .mat-mdc-row:nth-child(even) {
+    background-color: #e0e0e0;
+    /* Slightly darker gray for even rows */
+}
+
+::ng-deep .mat-mdc-row td {
+    text-align: center;
+}

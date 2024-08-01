@@ -1,0 +1,53 @@
+{
+	"a2Personal": {
+		"myFullName": "Mohammed Nazamul Hassan",
+		"sheridanID": "991704017",
+		"sheridanLogin": "Hassan40",
+		"sheridanProgram": "CST-Software Development and Network Engineering",
+		"sheridanEmail": "hassan40@sheridancollege.ca"
+	},
+	"myBooks": [
+		{
+			"authorName": "Isaac Newton",
+			"bookTitle": "Physic",
+			"published": 2000
+		},
+		{
+			"authorName": "Pythagoras",
+			"bookTitle": "Mathematics",
+			"published": 2010
+		},
+		{
+			"authorName": "Charles Darwin",
+			"bookTitle": "Biology",
+			"published": 2005
+		},
+		{
+			"authorName": "Steve Jobs",
+			"bookTitle": "Computer",
+			"published": 2019
+		},
+		{
+			"authorName": "Marie Curie",
+			"bookTitle": "Chemistry",
+			"published": 2024
+		}
+	],
+	"campusData": [
+		{
+			"campus": "Davis",
+			"street": "7899 McLaughlin Blvd",
+			"city": "Brampton"
+		},
+		{
+			"campus": "HMC",
+			"street": "4180 Duke of York Blvd",
+			"city": "Mississauga"
+		},
+		{
+			"campus": "Trafalgar",
+			"street": "1430 Trafalgar Road",
+			"city": "Oakville"
+		}
+	]
+}
